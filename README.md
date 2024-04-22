@@ -1,7 +1,7 @@
 # frontend
   Vue3 
   Spring Boot (Rest API) 를 사용하여 구현한 쇼핑몰
-  - JPA / MariaDB / JWT
+  - JPA / MariaDB / JWT 사용
 
 ## Project setup
 ```
