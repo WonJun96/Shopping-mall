@@ -24,7 +24,6 @@
 export default {
   name: "Card"
 }
-// commit test...
 </script>
 
 <style scoped>
